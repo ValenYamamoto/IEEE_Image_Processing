@@ -17,3 +17,5 @@ Tensorflow, which will emit CUDA instructions for you.
 !INCLUDE "GPU.md"
 
 !INCLUDE "camera.md"
+
+!INCLUDE "resources.md"
